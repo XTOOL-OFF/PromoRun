@@ -9,7 +9,7 @@ api_id = 1465388
 api_hash = '4bc58026ccd22895e0df4be158a181f1'
 timeout = 0.3
 name = 'xfx1337'
-chat = 'https://t.me/runcsgo'
+chat = 'https://t.me/xuisosi506'
 client = discord.Client()
 bot = commands.Bot(command_prefix='!')
 
